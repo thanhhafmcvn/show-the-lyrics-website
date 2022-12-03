@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: yellow;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+.default {
+    display: none;
+}
+.show {
+    display: block;
+}
